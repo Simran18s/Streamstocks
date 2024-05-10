@@ -2,7 +2,7 @@
   
    - This repo deals with understanding the application of Machine Learning as a part of reality. 
    - It predicts the stock behaviour using python model developed on streamlit framework .
-   - It use yahoo's "yfinance" as a source to fetch dataset
+   - It uses yahoo's "yfinance" as a source to fetch dataset.
 
 ### 
 
